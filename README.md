@@ -7,3 +7,4 @@
 - 📫 How to reach me: Discord - KVIT#0777.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love quotes.
+- 🕘 I am studying at "Secondary school No. 7".
