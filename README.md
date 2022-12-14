@@ -1,4 +1,4 @@
-### Hi, I'm Vitaly 👋
+### Hi, I'm Vitaly, I'm from Russia 👋
 
 - 🔭 I’m currently working on myself.
 - 🌱 I’m currently learning javascript.
