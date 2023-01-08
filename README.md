@@ -1,10 +1,3 @@
-### Hi, I'm Vitaly, I'm from Russia 👋
-
-- 🔭 I’m currently working on myself.
-- 🌱 I’m currently learning javascript.
-- 🤔 I’m looking for help with web developer.
-- 💬 Ask me about css/html or any tech-related stuff.
-- 📫 How to reach me: Discord - KVIT#0777.
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I love quotes.
-- 🕘 I am studying at "Secondary school No. 7".
+<h1 align="center">Hi there, I'm <a href="#" target="_blank">Vitaly</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
