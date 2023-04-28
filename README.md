@@ -12,5 +12,9 @@
 </p>
 
 Hello, my name is Vitaly and I am a student who wants to become a perfect developer.
+I'm studying web development. I already made simple websites and installed them on GitHub Pages. Likewise, I also make discord and telegram bots on Node.js I want to get better, and GitHub Education will help me with that. Services like Heroku or apps from JetBrains will make it easier for me to learn web development.
+Thank you for everything you have done, Vitaly.
+
+Hello, my name is Vitaly and I am a student who wants to become a perfect developer.
 I'm studying web development. I also make discord and telegram bots on Node.js I want to get better.
 Thanks for reading, Vitaly.
